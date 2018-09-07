@@ -1,0 +1,1473 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MetroGraph ScrollX="0" ScrollY="0" ZoomScale="1">
+  <Lines>
+    <Line Name="1号线" Color="-3407872" />
+    <Line Name="2号线" Color="-16738048" />
+    <Line Name="2号线东延段" Color="-16738048" />
+    <Line Name="3号线" Color="-401149" />
+    <Line Name="4号线" Color="-12052345" />
+    <Line Name="5号线" Color="-6993768" />
+    <Line Name="6号线" Color="-2619288" />
+    <Line Name="7号线" Color="-1542136" />
+    <Line Name="8号线" Color="-16213800" />
+    <Line Name="9号线" Color="-8206104" />
+    <Line Name="10号线(新江湾城-航中路)" Color="-3622696" />
+    <Line Name="10号线(新江湾城-虹桥火车站)" Color="-3622696" />
+    <Line Name="12号线" Color="-15959970" />
+    <Line Name="13号线" Color="-1599807" />
+    <Line Name="11号线" Color="-8388608" />
+    <Line Name="16号线" Color="-8927033" />
+    <Line Name="17号线" Color="-4163724" />
+  </Lines>
+  <Nodes>
+    <Node Name="富锦路" X = "1837" Y = "195">
+      <Link To="友谊西路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="友谊西路" X = "1837" Y = "241">
+      <Link To="宝安公路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="富锦路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宝安公路" X = "1837" Y = "287">
+      <Link To="共富新村" Line="1号线" Flag="0" Weight="3" />
+      <Link To="友谊西路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="共富新村" X = "1837" Y = "333">
+      <Link To="呼兰路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="宝安公路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="呼兰路" X = "1837" Y = "379">
+      <Link To="通河新村" Line="1号线" Flag="0" Weight="3" />
+      <Link To="共富新村" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="通河新村" X = "1837" Y = "425">
+      <Link To="共康路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="呼兰路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="共康路" X = "1837" Y = "471">
+      <Link To="彭浦新村" Line="1号线" Flag="0" Weight="3" />
+      <Link To="通河新村" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="彭浦新村" X = "1837" Y = "517">
+      <Link To="汶水路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="共康路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="汶水路" X = "1837" Y = "563">
+      <Link To="上海马戏城" Line="1号线" Flag="0" Weight="3" />
+      <Link To="彭浦新村" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海马戏城" X = "1837" Y = "608">
+      <Link To="延长路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="汶水路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="延长路" X = "1837" Y = "654">
+      <Link To="中山北路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="上海马戏城" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="中山北路" X = "1837" Y = "700">
+      <Link To="上海火车站" Line="1号线" Flag="0" Weight="3" />
+      <Link To="延长路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="汉中路" X = "1837" Y = "818">
+      <Link To="新闸路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="上海火车站" Line="1号线" Flag="0" Weight="3" />
+      <Link To="自然博物馆" Line="13号线" Flag="0" Weight="3" />
+      <Link To="江宁路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="南京西路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="曲阜路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="新闸路" X = "1896" Y = "879">
+      <Link To="人民广场" Line="1号线" Flag="0" Weight="3" />
+      <Link To="汉中路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="黄陂南路" X = "1890" Y = "1021">
+      <Link To="陕西南路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="人民广场" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="常熟路" X = "1763" Y = "1021">
+      <Link To="衡山路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="陕西南路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="肇嘉浜路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="静安寺" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="衡山路" X = "1710" Y = "1059">
+      <Link To="徐家汇" Line="1号线" Flag="0" Weight="3" />
+      <Link To="常熟路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="漕宝路" X = "1509" Y = "1258">
+      <Link To="上海南站" Line="1号线" Flag="0" Weight="3" />
+      <Link To="上海体育馆" Line="1号线" Flag="0" Weight="3" />
+      <Link To="桂林公园" Line="12号线" Flag="0" Weight="3" />
+      <Link To="龙漕路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="锦江乐园" X = "1469" Y = "1443">
+      <Link To="莲花路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="上海南站" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="莲花路" X = "1427" Y = "1485">
+      <Link To="外环路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="锦江乐园" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="外环路" X = "1385" Y = "1527">
+      <Link To="莘庄" Line="1号线" Flag="0" Weight="3" />
+      <Link To="莲花路" Line="1号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="徐泾东" X = "975" Y = "926">
+      <Link To="虹桥火车站" Line="2号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="虹桥火车站" X = "1053" Y = "926">
+      <Link To="虹桥2号航站楼" Line="2号线" Flag="-1" Weight="3" />
+      <Link To="徐泾东" Line="2号线" Flag="1" Weight="3" />
+      <Link To="虹桥2号航站楼" Line="10号线(新江湾城-虹桥火车站)" Flag="1" Weight="3" />
+      <Link To="诸光路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹桥2号航站楼" X = "1157" Y = "926">
+      <Link To="淞虹路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="虹桥火车站" Line="2号线" Flag="1" Weight="3" />
+      <Link To="虹桥1号航站楼" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="虹桥火车站" Line="10号线(新江湾城-虹桥火车站)" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="淞虹路" X = "1246" Y = "926">
+      <Link To="北新泾" Line="2号线" Flag="0" Weight="3" />
+      <Link To="虹桥2号航站楼" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="北新泾" X = "1322" Y = "926">
+      <Link To="威宁路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="淞虹路" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="威宁路" X = "1398" Y = "926">
+      <Link To="娄山关路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="北新泾" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="娄山关路" X = "1475" Y = "926">
+      <Link To="中山公园" Line="2号线" Flag="0" Weight="3" />
+      <Link To="威宁路" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="静安寺" X = "1760" Y = "926">
+      <Link To="南京西路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="江苏路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="常熟路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="昌平路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="南京西路" X = "1818" Y = "926">
+      <Link To="人民广场" Line="2号线" Flag="0" Weight="3" />
+      <Link To="静安寺" Line="2号线" Flag="0" Weight="3" />
+      <Link To="淮海中路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="自然博物馆" Line="13号线" Flag="0" Weight="3" />
+      <Link To="陕西南路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="汉中路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="陆家嘴" X = "2123" Y = "926">
+      <Link To="东昌路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="南京东路" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东昌路" X = "2172" Y = "976">
+      <Link To="世纪大道" Line="2号线" Flag="0" Weight="3" />
+      <Link To="陆家嘴" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海科技馆" X = "2292" Y = "1097">
+      <Link To="世纪公园" Line="2号线" Flag="0" Weight="3" />
+      <Link To="世纪大道" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="世纪公园" X = "2292" Y = "1173">
+      <Link To="龙阳路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="上海科技馆" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="张江高科" X = "2513" Y = "1229">
+      <Link To="金科路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="龙阳路" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金科路" X = "2578" Y = "1229">
+      <Link To="广兰路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="张江高科" Line="2号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="广兰路" X = "2643" Y = "1229">
+      <Link To="金科路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="唐镇" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="唐镇" X = "2708" Y = "1229">
+      <Link To="创新中路" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="广兰路" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="创新中路" X = "2743" Y = "1261">
+      <Link To="华夏东路" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="唐镇" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="华夏东路" X = "2743" Y = "1306">
+      <Link To="川沙" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="创新中路" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="川沙" X = "2743" Y = "1352">
+      <Link To="凌空路" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="华夏东路" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="凌空路" X = "2743" Y = "1397">
+      <Link To="远东大道" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="川沙" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="远东大道" X = "2743" Y = "1443">
+      <Link To="海天三路" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="凌空路" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="海天三路" X = "2743" Y = "1488">
+      <Link To="浦东国际机场" Line="2号线东延段" Flag="0" Weight="3" />
+      <Link To="远东大道" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江杨北路" X = "2086" Y = "86">
+      <Link To="铁力路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="铁力路" X = "2086" Y = "128">
+      <Link To="江杨北路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="友谊路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="友谊路" X = "2086" Y = "169">
+      <Link To="铁力路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="宝杨路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宝杨路" X = "2086" Y = "210">
+      <Link To="友谊路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="水产路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="水产路" X = "2086" Y = "251">
+      <Link To="宝杨路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="淞滨路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="淞滨路" X = "2086" Y = "291">
+      <Link To="水产路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="张华浜" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="张华浜" X = "2086" Y = "332">
+      <Link To="淞滨路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="淞发路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="淞发路" X = "2086" Y = "373">
+      <Link To="张华浜" Line="3号线" Flag="0" Weight="3" />
+      <Link To="长江南路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="长江南路" X = "2086" Y = "414">
+      <Link To="淞发路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="殷高西路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="殷高西路" X = "2086" Y = "455">
+      <Link To="长江南路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="江湾镇" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江湾镇" X = "2086" Y = "495">
+      <Link To="殷高西路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="大柏树" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大柏树" X = "2086" Y = "536">
+      <Link To="江湾镇" Line="3号线" Flag="0" Weight="3" />
+      <Link To="赤峰路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="赤峰路" X = "2086" Y = "578">
+      <Link To="大柏树" Line="3号线" Flag="0" Weight="3" />
+      <Link To="虹口足球场" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东宝兴路" X = "2017" Y = "690">
+      <Link To="虹口足球场" Line="3号线" Flag="0" Weight="3" />
+      <Link To="1" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="1" X = "1943" Y = "772">
+      <Link To="东宝兴路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="宝山路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="2" Line="4号线" Flag="1" Weight="3" />
+    </Node>
+    <Node Name="2" X = "2033" Y = "772">
+      <Link To="1" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="3" Line="4号线" Flag="1" Weight="3" />
+    </Node>
+    <Node Name="3" X = "2033" Y = "738">
+      <Link To="1" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="海伦路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="漕溪路" X = "1615" Y = "1239">
+      <Link To="宜山路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="龙漕路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙漕路" X = "1615" Y = "1295">
+      <Link To="漕溪路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="石龙路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="漕宝路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="龙华" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="石龙路" X = "1568" Y = "1344">
+      <Link To="龙漕路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="上海南站" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海南站" X = "1509" Y = "1402">
+      <Link To="锦江乐园" Line="1号线" Flag="0" Weight="3" />
+      <Link To="漕宝路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="石龙路" Line="3号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宝山路" X = "1892" Y = "772">
+      <Link To="1" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="1" Line="4号线" Flag="1" Weight="3" />
+      <Link To="上海火车站" Line="3号线" Flag="1" Weight="3" />
+      <Link To="上海火车站" Line="4号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="中潭路" X = "1723" Y = "772">
+      <Link To="上海火车站" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="镇坪路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="上海火车站" Line="4号线" Flag="1" Weight="3" />
+      <Link To="镇坪路" Line="4号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="金沙江路" X = "1554" Y = "850">
+      <Link To="曹杨路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="中山公园" Line="3号线" Flag="1" Weight="3" />
+      <Link To="曹杨路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="中山公园" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="隆德路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="大渡河路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="延安西路" X = "1554" Y = "982">
+      <Link To="中山公园" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="虹桥路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="中山公园" Line="4号线" Flag="1" Weight="3" />
+      <Link To="虹桥路" Line="4号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="莘庄" X = "1342" Y = "1572">
+      <Link To="外环路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="春申路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="春申路" X = "1342" Y = "1624">
+      <Link To="银都路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="莘庄" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="银都路" X = "1342" Y = "1672">
+      <Link To="颛桥" Line="5号线" Flag="0" Weight="3" />
+      <Link To="春申路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="颛桥" X = "1342" Y = "1726">
+      <Link To="北桥" Line="5号线" Flag="0" Weight="3" />
+      <Link To="银都路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="北桥" X = "1342" Y = "1779">
+      <Link To="剑川路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="颛桥" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="剑川路" X = "1342" Y = "1832">
+      <Link To="东川路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="北桥" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东川路" X = "1342" Y = "1888">
+      <Link To="金平路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="剑川路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金平路" X = "1293" Y = "1958">
+      <Link To="华宁路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="东川路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="华宁路" X = "1233" Y = "2017">
+      <Link To="文井路" Line="5号线" Flag="0" Weight="3" />
+      <Link To="金平路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="文井路" X = "1114" Y = "2056">
+      <Link To="闵行开发区" Line="5号线" Flag="0" Weight="3" />
+      <Link To="华宁路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="闵行开发区" X = "1017" Y = "2056">
+      <Link To="文井路" Line="5号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="港城路" X = "2621" Y = "219">
+      <Link To="外高桥保税区北" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="外高桥保税区北" X = "2621" Y = "272">
+      <Link To="港城路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="航津路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="航津路" X = "2621" Y = "332">
+      <Link To="外高桥保税区北" Line="6号线" Flag="0" Weight="3" />
+      <Link To="外高桥保税区南" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="洲海路" X = "2621" Y = "450">
+      <Link To="外高桥保税区南" Line="6号线" Flag="0" Weight="3" />
+      <Link To="五洲大道" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="五洲大道" X = "2621" Y = "509">
+      <Link To="洲海路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="东靖路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东靖路" X = "2621" Y = "577">
+      <Link To="五洲大道" Line="6号线" Flag="0" Weight="3" />
+      <Link To="巨峰路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="巨峰路" X = "2608" Y = "637">
+      <Link To="东靖路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="五莲路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="东陆路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="杨高北路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="五莲路" X = "2565" Y = "680">
+      <Link To="巨峰路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="博兴路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="博兴路" X = "2524" Y = "721">
+      <Link To="五莲路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="金桥路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金桥路" X = "2482" Y = "763">
+      <Link To="博兴路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="云山路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="云山路" X = "2441" Y = "804">
+      <Link To="金桥路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="德平路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="德平路" X = "2399" Y = "846">
+      <Link To="云山路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="北洋泾路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="北洋泾路" X = "2358" Y = "887">
+      <Link To="德平路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="民生路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="民生路" X = "2316" Y = "929">
+      <Link To="北洋泾路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="源深体育中心" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="源深体育中心" X = "2277" Y = "967">
+      <Link To="民生路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="世纪大道" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦电路" X = "2167" Y = "1092">
+      <Link To="世纪大道" Line="6号线" Flag="0" Weight="3" />
+      <Link To="蓝村路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦电路(4号线)" X = "2222" Y = "1114">
+      <Link To="世纪大道" Line="4号线" Flag="0" Weight="3" />
+      <Link To="蓝村路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="蓝村路" X = "2167" Y = "1193">
+      <Link To="塘桥" Line="4号线" Flag="0" Weight="3" />
+      <Link To="浦电路(4号线)" Line="4号线" Flag="0" Weight="3" />
+      <Link To="浦电路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="上海儿童医学中心" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海儿童医学中心" X = "2167" Y = "1258">
+      <Link To="蓝村路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="临沂新村" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="高科西路" X = "2132" Y = "1398">
+      <Link To="临沂新村" Line="6号线" Flag="0" Weight="3" />
+      <Link To="东明路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="杨高南路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="云台路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东明路" X = "2075" Y = "1456">
+      <Link To="高科西路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="高青路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="高青路" X = "2033" Y = "1525">
+      <Link To="东明路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="华夏西路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上南路" X = "1997" Y = "1648">
+      <Link To="华夏西路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="灵岩南路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="灵岩南路" X = "1891" Y = "1648">
+      <Link To="上南路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="东方体育中心" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东方体育中心" X = "1764" Y = "1648">
+      <Link To="灵岩南路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="杨思" Line="8号线" Flag="0" Weight="3" />
+      <Link To="凌兆新村" Line="8号线" Flag="0" Weight="3" />
+      <Link To="三林" Line="11号线" Flag="0" Weight="3" />
+      <Link To="龙耀路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="罗南新村" X = "1603" Y = "259">
+      <Link To="潘广路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="美兰湖" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="潘广路" X = "1603" Y = "294">
+      <Link To="刘行" Line="7号线" Flag="0" Weight="3" />
+      <Link To="罗南新村" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="刘行" X = "1603" Y = "329">
+      <Link To="顾村公园" Line="7号线" Flag="0" Weight="3" />
+      <Link To="潘广路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="顾村公园" X = "1603" Y = "362">
+      <Link To="祁华路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="刘行" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="祁华路" X = "1603" Y = "397">
+      <Link To="上海大学" Line="7号线" Flag="0" Weight="3" />
+      <Link To="顾村公园" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海大学" X = "1603" Y = "431">
+      <Link To="南陈路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="祁华路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="南陈路" X = "1603" Y = "466">
+      <Link To="上大路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="上海大学" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上大路" X = "1603" Y = "500">
+      <Link To="场中路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="南陈路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="场中路" X = "1603" Y = "535">
+      <Link To="大场镇" Line="7号线" Flag="0" Weight="3" />
+      <Link To="上大路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大场镇" X = "1603" Y = "569">
+      <Link To="行知路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="场中路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="行知路" X = "1603" Y = "604">
+      <Link To="大华三路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="大场镇" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大华三路" X = "1603" Y = "638">
+      <Link To="新村路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="行知路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="新村路" X = "1603" Y = "673">
+      <Link To="岚皋路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="大华三路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="岚皋路" X = "1603" Y = "707">
+      <Link To="镇坪路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="新村路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="长寿路" X = "1653" Y = "818">
+      <Link To="昌平路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="镇坪路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="江宁路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="武宁路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="昌平路" X = "1706" Y = "870">
+      <Link To="静安寺" Line="7号线" Flag="0" Weight="3" />
+      <Link To="长寿路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙华中路" X = "1763" Y = "1339">
+      <Link To="后滩" Line="7号线" Flag="0" Weight="3" />
+      <Link To="东安路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="龙华" Line="12号线" Flag="0" Weight="3" />
+      <Link To="大木桥路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="后滩" X = "1833" Y = "1397">
+      <Link To="长清路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="龙华中路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="长清路" X = "1911" Y = "1397">
+      <Link To="耀华路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="后滩" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="云台路" X = "2056" Y = "1398">
+      <Link To="高科西路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="耀华路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="杨高南路" X = "2234" Y = "1398">
+      <Link To="锦绣路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="高科西路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="锦绣路" X = "2280" Y = "1398">
+      <Link To="芳华路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="杨高南路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="芳华路" X = "2370" Y = "1309">
+      <Link To="龙阳路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="锦绣路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="花木路" X = "2506" Y = "1172">
+      <Link To="龙阳路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="市光路" X = "2375" Y = "188">
+      <Link To="嫩江路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嫩江路" X = "2375" Y = "246">
+      <Link To="市光路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="翔殷路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="翔殷路" X = "2375" Y = "301">
+      <Link To="嫩江路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="黄兴公园" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="黄兴公园" X = "2375" Y = "356">
+      <Link To="翔殷路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="延吉中路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="延吉中路" X = "2375" Y = "414">
+      <Link To="黄兴公园" Line="8号线" Flag="0" Weight="3" />
+      <Link To="黄兴路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="黄兴路" X = "2341" Y = "449">
+      <Link To="延吉中路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="江浦路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江浦路" X = "2308" Y = "482">
+      <Link To="黄兴路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="鞍山新村" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="鞍山新村" X = "2274" Y = "516">
+      <Link To="江浦路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="四平路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="曲阳路" X = "2207" Y = "583">
+      <Link To="四平路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="虹口足球场" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹口足球场" X = "2086" Y = "623">
+      <Link To="赤峰路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="东宝兴路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="曲阳路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="西藏北路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="西藏北路" X = "1999" Y = "622">
+      <Link To="虹口足球场" Line="8号线" Flag="0" Weight="3" />
+      <Link To="中兴路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="中兴路" X = "1943" Y = "671">
+      <Link To="西藏北路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="曲阜路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="曲阜路" X = "1943" Y = "843">
+      <Link To="中兴路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="人民广场" Line="8号线" Flag="0" Weight="3" />
+      <Link To="汉中路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="天潼路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="人民广场" X = "1943" Y = "926">
+      <Link To="黄陂南路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="新闸路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="南京东路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="南京西路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="曲阜路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="大世界" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大世界" X = "1989" Y = "994">
+      <Link To="人民广场" Line="8号线" Flag="0" Weight="3" />
+      <Link To="老西门" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="西藏南路" X = "1989" Y = "1240">
+      <Link To="鲁班路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="南浦大桥" Line="4号线" Flag="0" Weight="3" />
+      <Link To="陆家浜路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="中华艺术宫" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="中华艺术宫" X = "1989" Y = "1353">
+      <Link To="西藏南路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="耀华路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="耀华路" X = "1989" Y = "1396">
+      <Link To="云台路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="长清路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="中华艺术宫" Line="8号线" Flag="0" Weight="3" />
+      <Link To="成山路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="成山路" X = "1989" Y = "1440">
+      <Link To="耀华路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="杨思" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="杨思" X = "1912" Y = "1505">
+      <Link To="成山路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="东方体育中心" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="凌兆新村" X = "1764" Y = "1689">
+      <Link To="东方体育中心" Line="8号线" Flag="0" Weight="3" />
+      <Link To="芦恒路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="芦恒路" X = "1764" Y = "1738">
+      <Link To="凌兆新村" Line="8号线" Flag="0" Weight="3" />
+      <Link To="浦江镇" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦江镇" X = "1764" Y = "1787">
+      <Link To="芦恒路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="江月路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江月路" X = "1764" Y = "1837">
+      <Link To="浦江镇" Line="8号线" Flag="0" Weight="3" />
+      <Link To="联航路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="联航路" X = "1764" Y = "1885">
+      <Link To="江月路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="沈杜公路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="沈杜公路" X = "1764" Y = "1934">
+      <Link To="联航路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="三鲁公路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="三鲁公路" X = "1842" Y = "2020">
+      <Link To="沈杜公路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="闵瑞路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="闵瑞路" X = "1945" Y = "2085">
+      <Link To="三鲁公路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="浦航路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦航路" X = "1945" Y = "2163">
+      <Link To="闵瑞路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="东方一路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东方一路" X = "1945" Y = "2241">
+      <Link To="浦航路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="汇臻路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="汇臻路" X = "1945" Y = "2319">
+      <Link To="东方一路" Line="8号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="曹路" X = "3261" Y = "729">
+      <Link To="民雷路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="民雷路" X = "3144" Y = "729">
+      <Link To="曹路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="顾唐路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="顾唐路" X = "3001" Y = "729">
+      <Link To="民雷路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="金海路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金吉路" X = "2756" Y = "729">
+      <Link To="金海路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="金桥" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金桥" X = "2626" Y = "729">
+      <Link To="金吉路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="台儿庄路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="台儿庄路" X = "2535" Y = "825">
+      <Link To="金桥" Line="9号线" Flag="0" Weight="3" />
+      <Link To="蓝天路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="蓝天路" X = "2483" Y = "877">
+      <Link To="台儿庄路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="芳甸路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="芳甸路" X = "2392" Y = "968">
+      <Link To="蓝天路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="杨高中路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="杨高中路" X = "2301" Y = "1053">
+      <Link To="芳甸路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="世纪大道" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="世纪大道" X = "2222" Y = "1022">
+      <Link To="上海科技馆" Line="2号线" Flag="0" Weight="3" />
+      <Link To="东昌路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="浦电路(4号线)" Line="4号线" Flag="0" Weight="3" />
+      <Link To="浦东大道" Line="4号线" Flag="0" Weight="3" />
+      <Link To="源深体育中心" Line="6号线" Flag="0" Weight="3" />
+      <Link To="浦电路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="杨高中路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="商城路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="商城路" X = "2145" Y = "1022">
+      <Link To="世纪大道" Line="9号线" Flag="0" Weight="3" />
+      <Link To="小南门" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="小南门" X = "2054" Y = "1105">
+      <Link To="商城路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="陆家浜路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="马当路" X = "1956" Y = "1105">
+      <Link To="陆家浜路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="打浦桥" Line="9号线" Flag="0" Weight="3" />
+      <Link To="世博会博物馆" Line="13号线" Flag="0" Weight="3" />
+      <Link To="新天地" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="打浦桥" X = "1878" Y = "1105">
+      <Link To="马当路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="嘉善路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嘉善路" X = "1820" Y = "1105">
+      <Link To="打浦桥" Line="9号线" Flag="0" Weight="3" />
+      <Link To="肇嘉浜路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="大木桥路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="陕西南路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="肇嘉浜路" X = "1762" Y = "1105">
+      <Link To="东安路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="常熟路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="嘉善路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="徐家汇" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="徐家汇" X = "1666" Y = "1105">
+      <Link To="上海体育馆" Line="1号线" Flag="0" Weight="3" />
+      <Link To="衡山路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="肇嘉浜路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="宜山路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="上海游泳馆" Line="11号线" Flag="0" Weight="3" />
+      <Link To="交通大学" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宜山路" X = "1554" Y = "1105">
+      <Link To="虹桥路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="漕溪路" Line="3号线" Flag="0" Weight="3" />
+      <Link To="虹桥路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="上海体育馆" Line="4号线" Flag="0" Weight="3" />
+      <Link To="徐家汇" Line="9号线" Flag="0" Weight="3" />
+      <Link To="桂林路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="桂林路" X = "1472" Y = "1105">
+      <Link To="宜山路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="漕河泾开发区" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="漕河泾开发区" X = "1389" Y = "1105">
+      <Link To="桂林路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="合川路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="合川路" X = "1303" Y = "1105">
+      <Link To="漕河泾开发区" Line="9号线" Flag="0" Weight="3" />
+      <Link To="星中路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="星中路" X = "1236" Y = "1105">
+      <Link To="合川路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="七宝" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="七宝" X = "1169" Y = "1105">
+      <Link To="星中路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="中春路" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="中春路" X = "1107" Y = "1105">
+      <Link To="七宝" Line="9号线" Flag="0" Weight="3" />
+      <Link To="九亭" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="九亭" X = "1024" Y = "1145">
+      <Link To="中春路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="泗泾" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="泗泾" X = "990" Y = "1179">
+      <Link To="九亭" Line="9号线" Flag="0" Weight="3" />
+      <Link To="佘山" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="佘山" X = "942" Y = "1227">
+      <Link To="泗泾" Line="9号线" Flag="0" Weight="3" />
+      <Link To="洞泾" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="洞泾" X = "892" Y = "1277">
+      <Link To="佘山" Line="9号线" Flag="0" Weight="3" />
+      <Link To="松江大学城" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="松江大学城" X = "843" Y = "1327">
+      <Link To="洞泾" Line="9号线" Flag="0" Weight="3" />
+      <Link To="松江新城" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="松江新城" X = "794" Y = "1375">
+      <Link To="松江大学城" Line="9号线" Flag="0" Weight="3" />
+      <Link To="松江体育中心" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="松江体育中心" X = "794" Y = "1427">
+      <Link To="松江新城" Line="9号线" Flag="0" Weight="3" />
+      <Link To="醉白池" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="醉白池" X = "794" Y = "1479">
+      <Link To="松江体育中心" Line="9号线" Flag="0" Weight="3" />
+      <Link To="松江南站" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="松江南站" X = "794" Y = "1531">
+      <Link To="醉白池" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙阳路" X = "2449" Y = "1229">
+      <Link To="张江高科" Line="2号线" Flag="0" Weight="3" />
+      <Link To="世纪公园" Line="2号线" Flag="0" Weight="3" />
+      <Link To="花木路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="芳华路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="华夏中路" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦东国际机场" X = "2743" Y = "1534">
+      <Link To="海天三路" Line="2号线东延段" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="新江湾城" X = "2241" Y = "293">
+      <Link To="殷高东路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="殷高东路" X = "2241" Y = "329">
+      <Link To="新江湾城" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="三门路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="三门路" X = "2241" Y = "364">
+      <Link To="殷高东路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="江湾体育场" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江湾体育场" X = "2241" Y = "399">
+      <Link To="三门路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="五角场" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="五角场" X = "2241" Y = "434">
+      <Link To="江湾体育场" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="国权路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="国权路" X = "2241" Y = "469">
+      <Link To="五角场" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="同济大学" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="同济大学" X = "2241" Y = "504">
+      <Link To="国权路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="四平路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="四平路" X = "2241" Y = "549">
+      <Link To="鞍山新村" Line="8号线" Flag="0" Weight="3" />
+      <Link To="曲阳路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="同济大学" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="邮电新村" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="邮电新村" X = "2199" Y = "660">
+      <Link To="四平路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="海伦路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="海伦路" X = "2120" Y = "738">
+      <Link To="3" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="临平路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="邮电新村" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="四川北路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="四川北路" X = "2072" Y = "786">
+      <Link To="海伦路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="天潼路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="天潼路" X = "2051" Y = "843">
+      <Link To="四川北路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="南京东路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="曲阜路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="国际客运中心" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="南京东路" X = "2051" Y = "926">
+      <Link To="陆家嘴" Line="2号线" Flag="0" Weight="3" />
+      <Link To="人民广场" Line="2号线" Flag="0" Weight="3" />
+      <Link To="天潼路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="豫园" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="豫园" X = "2051" Y = "978">
+      <Link To="南京东路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="老西门" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="老西门" X = "1989" Y = "1050">
+      <Link To="大世界" Line="8号线" Flag="0" Weight="3" />
+      <Link To="陆家浜路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="豫园" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="新天地" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="陕西南路" X = "1818" Y = "1030">
+      <Link To="常熟路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="黄陂南路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="新天地" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="上海图书馆" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="嘉善路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="南京西路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海图书馆" X = "1666" Y = "1030">
+      <Link To="陕西南路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="交通大学" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="交通大学" X = "1596" Y = "1030">
+      <Link To="上海图书馆" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="虹桥路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="徐家汇" Line="11号线" Flag="0" Weight="3" />
+      <Link To="江苏路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹桥路" X = "1554" Y = "1030">
+      <Link To="延安西路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="宜山路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="延安西路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="宜山路" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="交通大学" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="宋园路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宋园路" X = "1442" Y = "1030">
+      <Link To="虹桥路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="伊犁路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="伊犁路" X = "1374" Y = "1030">
+      <Link To="宋园路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="水城路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="水城路" X = "1307" Y = "1030">
+      <Link To="伊犁路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="龙溪路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙溪路" X = "1239" Y = "1030">
+      <Link To="水城路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="龙柏新村" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="水城路" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="上海动物园" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙柏新村" X = "1171" Y = "1030">
+      <Link To="紫藤路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="龙溪路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="紫藤路" X = "1103" Y = "1030">
+      <Link To="龙柏新村" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="航中路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="航中路" X = "1035" Y = "1030">
+      <Link To="紫藤路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海动物园" X = "1206" Y = "992">
+      <Link To="龙溪路" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="虹桥1号航站楼" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹桥1号航站楼" X = "1190" Y = "971">
+      <Link To="上海动物园" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="虹桥2号航站楼" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="世博大道" X = "1956" Y = "1365">
+      <Link To="世博会博物馆" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="世博会博物馆" X = "1956" Y = "1287">
+      <Link To="世博大道" Line="13号线" Flag="0" Weight="3" />
+      <Link To="马当路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="新天地" X = "1893" Y = "1050">
+      <Link To="老西门" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="陕西南路" Line="10号线(新江湾城-航中路)" Flag="0" Weight="3" />
+      <Link To="老西门" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="陕西南路" Line="10号线(新江湾城-虹桥火车站)" Flag="0" Weight="3" />
+      <Link To="马当路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="淮海中路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="自然博物馆" X = "1838" Y = "892">
+      <Link To="南京西路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="汉中路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江宁路" X = "1743" Y = "818">
+      <Link To="汉中路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="长寿路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="武宁路" X = "1613" Y = "818">
+      <Link To="长寿路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="隆德路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大渡河路" X = "1481" Y = "850">
+      <Link To="金沙江路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="真北路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="真北路" X = "1429" Y = "850">
+      <Link To="大渡河路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="祁连山南路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="祁连山南路" X = "1403" Y = "824">
+      <Link To="真北路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="丰庄" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="丰庄" X = "1364" Y = "798">
+      <Link To="祁连山南路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="金沙江西路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金沙江西路" X = "1299" Y = "798">
+      <Link To="丰庄" Line="13号线" Flag="0" Weight="3" />
+      <Link To="金运路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金运路" X = "1221" Y = "798">
+      <Link To="金沙江西路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="迪士尼" X = "2587" Y = "1748">
+      <Link To="康新公路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="康新公路" X = "2528" Y = "1748">
+      <Link To="迪士尼" Line="11号线" Flag="0" Weight="3" />
+      <Link To="秀沿路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="秀沿路" X = "2476" Y = "1722">
+      <Link To="康新公路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="罗山路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="罗山路" X = "2437" Y = "1696">
+      <Link To="秀沿路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="御桥" Line="11号线" Flag="0" Weight="3" />
+      <Link To="周浦东" Line="16号线" Flag="0" Weight="3" />
+      <Link To="华夏中路" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="御桥" X = "2317" Y = "1696">
+      <Link To="罗山路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="浦三路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦三路" X = "2197" Y = "1696">
+      <Link To="御桥" Line="11号线" Flag="0" Weight="3" />
+      <Link To="三林东" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="三林东" X = "2077" Y = "1696">
+      <Link To="浦三路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="三林" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="三林" X = "1951" Y = "1696">
+      <Link To="三林东" Line="11号线" Flag="0" Weight="3" />
+      <Link To="东方体育中心" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙耀路" X = "1666" Y = "1472">
+      <Link To="东方体育中心" Line="11号线" Flag="0" Weight="3" />
+      <Link To="云锦路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="云锦路" X = "1666" Y = "1399">
+      <Link To="龙耀路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="龙华" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="龙华" X = "1666" Y = "1325">
+      <Link To="云锦路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="上海游泳馆" Line="11号线" Flag="0" Weight="3" />
+      <Link To="龙漕路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="龙华中路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海游泳馆" X = "1666" Y = "1193">
+      <Link To="龙华" Line="11号线" Flag="0" Weight="3" />
+      <Link To="徐家汇" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江苏路" X = "1668" Y = "926">
+      <Link To="静安寺" Line="2号线" Flag="0" Weight="3" />
+      <Link To="中山公园" Line="2号线" Flag="0" Weight="3" />
+      <Link To="交通大学" Line="11号线" Flag="0" Weight="3" />
+      <Link To="隆德路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="隆德路" X = "1600" Y = "850">
+      <Link To="武宁路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="金沙江路" Line="13号线" Flag="0" Weight="3" />
+      <Link To="江苏路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="曹杨路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="曹杨路" X = "1554" Y = "804">
+      <Link To="镇坪路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="金沙江路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="镇坪路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="金沙江路" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="枫桥路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="隆德路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="枫桥路" X = "1496" Y = "751">
+      <Link To="曹杨路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="真如" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="真如" X = "1464" Y = "719">
+      <Link To="枫桥路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="上海西站" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海西站" X = "1429" Y = "686">
+      <Link To="真如" Line="11号线" Flag="0" Weight="3" />
+      <Link To="李子园" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="李子园" X = "1399" Y = "652">
+      <Link To="上海西站" Line="11号线" Flag="0" Weight="3" />
+      <Link To="祁连山路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="祁连山路" X = "1399" Y = "612">
+      <Link To="李子园" Line="11号线" Flag="0" Weight="3" />
+      <Link To="武威路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="武威路" X = "1399" Y = "571">
+      <Link To="祁连山路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="桃浦新村" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="桃浦新村" X = "1399" Y = "530">
+      <Link To="武威路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="南翔" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="南翔" X = "1399" Y = "490">
+      <Link To="桃浦新村" Line="11号线" Flag="0" Weight="3" />
+      <Link To="马陆" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="马陆" X = "1399" Y = "449">
+      <Link To="南翔" Line="11号线" Flag="0" Weight="3" />
+      <Link To="嘉定新城" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嘉定新城" X = "1399" Y = "408">
+      <Link To="上海赛车场" Line="11号线" Flag="0" Weight="3" />
+      <Link To="马陆" Line="11号线" Flag="0" Weight="3" />
+      <Link To="白银路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="白银路" X = "1399" Y = "343">
+      <Link To="嘉定新城" Line="11号线" Flag="0" Weight="3" />
+      <Link To="嘉定西" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嘉定西" X = "1399" Y = "303">
+      <Link To="白银路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="嘉定北" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嘉定北" X = "1399" Y = "259">
+      <Link To="嘉定西" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海赛车场" X = "1376" Y = "387">
+      <Link To="嘉定新城" Line="11号线" Flag="0" Weight="3" />
+      <Link To="昌吉东路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="昌吉东路" X = "1352" Y = "366">
+      <Link To="上海汽车城" Line="11号线" Flag="0" Weight="3" />
+      <Link To="上海赛车场" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海汽车城" X = "1328" Y = "345">
+      <Link To="安亭" Line="11号线" Flag="0" Weight="3" />
+      <Link To="昌吉东路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="安亭" X = "1305" Y = "323">
+      <Link To="兆丰路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="上海汽车城" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="兆丰路" X = "1198" Y = "323">
+      <Link To="光明路" Line="11号线" Flag="0" Weight="3" />
+      <Link To="安亭" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="光明路" X = "1094" Y = "323">
+      <Link To="花桥" Line="11号线" Flag="0" Weight="3" />
+      <Link To="兆丰路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="花桥" X = "988" Y = "323">
+      <Link To="光明路" Line="11号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金海路" X = "2884" Y = "729">
+      <Link To="顾唐路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="金吉路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="申江路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="申江路" X = "2883" Y = "637">
+      <Link To="金京路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="金海路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="金京路" X = "2801" Y = "637">
+      <Link To="杨高北路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="申江路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="杨高北路" X = "2725" Y = "637">
+      <Link To="巨峰路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="金京路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东陆路" X = "2550" Y = "637">
+      <Link To="复兴岛" Line="12号线" Flag="0" Weight="3" />
+      <Link To="巨峰路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="复兴岛" X = "2441" Y = "637">
+      <Link To="爱国路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="东陆路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="爱国路" X = "2366" Y = "637">
+      <Link To="隆昌路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="复兴岛" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="隆昌路" X = "2330" Y = "679">
+      <Link To="宁国路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="爱国路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="宁国路" X = "2294" Y = "721">
+      <Link To="江浦公园" Line="12号线" Flag="0" Weight="3" />
+      <Link To="隆昌路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="江浦公园" X = "2258" Y = "763">
+      <Link To="大连路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="宁国路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="提篮桥" X = "2180" Y = "838">
+      <Link To="国际客运中心" Line="12号线" Flag="0" Weight="3" />
+      <Link To="大连路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="国际客运中心" X = "2125" Y = "841">
+      <Link To="天潼路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="提篮桥" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="桂林公园" X = "1417" Y = "1256">
+      <Link To="虹漕路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="漕宝路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹漕路" X = "1352" Y = "1256">
+      <Link To="虹梅路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="桂林公园" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹梅路" X = "1292" Y = "1256">
+      <Link To="东兰路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="虹漕路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东兰路" X = "1232" Y = "1256">
+      <Link To="顾戴路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="虹梅路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="顾戴路" X = "1175" Y = "1256">
+      <Link To="虹莘路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="东兰路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="虹莘路" X = "1110" Y = "1256">
+      <Link To="七莘路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="顾戴路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="七莘路" X = "1047" Y = "1256">
+      <Link To="虹莘路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="华夏中路" X = "2446" Y = "1441">
+      <Link To="罗山路" Line="16号线" Flag="0" Weight="3" />
+      <Link To="龙阳路" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="周浦东" X = "2433" Y = "1784">
+      <Link To="鹤沙航城" Line="16号线" Flag="0" Weight="3" />
+      <Link To="罗山路" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="鹤沙航城" X = "2433" Y = "1877">
+      <Link To="航头东" Line="16号线" Flag="0" Weight="3" />
+      <Link To="周浦东" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="航头东" X = "2433" Y = "1970">
+      <Link To="新场" Line="16号线" Flag="0" Weight="3" />
+      <Link To="鹤沙航城" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="新场" X = "2473" Y = "2030">
+      <Link To="野生动物园" Line="16号线" Flag="0" Weight="3" />
+      <Link To="航头东" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="野生动物园" X = "2552" Y = "2029">
+      <Link To="惠南" Line="16号线" Flag="0" Weight="3" />
+      <Link To="新场" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="惠南" X = "2639" Y = "2028">
+      <Link To="惠南东" Line="16号线" Flag="0" Weight="3" />
+      <Link To="野生动物园" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="惠南东" X = "2639" Y = "2113">
+      <Link To="书院" Line="16号线" Flag="0" Weight="3" />
+      <Link To="惠南" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="书院" X = "2751" Y = "2139">
+      <Link To="惠南东" Line="16号线" Flag="0" Weight="3" />
+      <Link To="临港大道" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="临港大道" X = "2855" Y = "2139">
+      <Link To="滴水湖" Line="16号线" Flag="0" Weight="3" />
+      <Link To="书院" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="滴水湖" X = "2959" Y = "2139">
+      <Link To="临港大道" Line="16号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="诸光路" X = "936" Y = "877">
+      <Link To="蟠龙路" Line="17号线" Flag="0" Weight="3" />
+      <Link To="虹桥火车站" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="蟠龙路" X = "858" Y = "877">
+      <Link To="徐盈路" Line="17号线" Flag="0" Weight="3" />
+      <Link To="诸光路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="徐盈路" X = "780" Y = "877">
+      <Link To="徐泾北城" Line="17号线" Flag="0" Weight="3" />
+      <Link To="蟠龙路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="徐泾北城" X = "702" Y = "877">
+      <Link To="嘉松中路" Line="17号线" Flag="0" Weight="3" />
+      <Link To="徐盈路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="嘉松中路" X = "624" Y = "877">
+      <Link To="赵巷" Line="17号线" Flag="0" Weight="3" />
+      <Link To="徐泾北城" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="赵巷" X = "559" Y = "877">
+      <Link To="汇金路" Line="17号线" Flag="0" Weight="3" />
+      <Link To="嘉松中路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="汇金路" X = "481" Y = "877">
+      <Link To="青浦新城" Line="17号线" Flag="0" Weight="3" />
+      <Link To="赵巷" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="青浦新城" X = "403" Y = "877">
+      <Link To="漕盈路" Line="17号线" Flag="0" Weight="3" />
+      <Link To="汇金路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="漕盈路" X = "325" Y = "877">
+      <Link To="淀山湖大道" Line="17号线" Flag="0" Weight="3" />
+      <Link To="青浦新城" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="淀山湖大道" X = "286" Y = "951">
+      <Link To="朱家角" Line="17号线" Flag="0" Weight="3" />
+      <Link To="漕盈路" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="朱家角" X = "247" Y = "1027">
+      <Link To="东方绿舟" Line="17号线" Flag="0" Weight="3" />
+      <Link To="淀山湖大道" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东方绿舟" X = "169" Y = "1027">
+      <Link To="朱家角" Line="17号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海火车站" X = "1837" Y = "772">
+      <Link To="汉中路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="中山北路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="宝山路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="中潭路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="宝山路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="中潭路" Line="4号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="镇坪路" X = "1603" Y = "772">
+      <Link To="中潭路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="曹杨路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="中潭路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="曹杨路" Line="4号线" Flag="-1" Weight="3" />
+      <Link To="长寿路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="岚皋路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="中山公园" X = "1554" Y = "926">
+      <Link To="江苏路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="娄山关路" Line="2号线" Flag="0" Weight="3" />
+      <Link To="金沙江路" Line="3号线" Flag="-1" Weight="3" />
+      <Link To="延安西路" Line="3号线" Flag="1" Weight="3" />
+      <Link To="金沙江路" Line="4号线" Flag="1" Weight="3" />
+      <Link To="延安西路" Line="4号线" Flag="-1" Weight="3" />
+    </Node>
+    <Node Name="上海体育馆" X = "1608" Y = "1161">
+      <Link To="上海体育场" Line="4号线" Flag="0" Weight="3" />
+      <Link To="漕宝路" Line="1号线" Flag="0" Weight="3" />
+      <Link To="徐家汇" Line="1号线" Flag="0" Weight="3" />
+      <Link To="宜山路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="上海体育场" X = "1659" Y = "1214">
+      <Link To="东安路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="上海体育馆" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="东安路" X = "1763" Y = "1240">
+      <Link To="上海体育场" Line="4号线" Flag="0" Weight="3" />
+      <Link To="大木桥路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="龙华中路" Line="7号线" Flag="0" Weight="3" />
+      <Link To="肇嘉浜路" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大木桥路" X = "1867" Y = "1240">
+      <Link To="东安路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="鲁班路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="龙华中路" Line="12号线" Flag="0" Weight="3" />
+      <Link To="嘉善路" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="鲁班路" X = "1927" Y = "1240">
+      <Link To="大木桥路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="西藏南路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="南浦大桥" X = "2051" Y = "1240">
+      <Link To="西藏南路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="塘桥" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="塘桥" X = "2120" Y = "1240">
+      <Link To="南浦大桥" Line="4号线" Flag="0" Weight="3" />
+      <Link To="蓝村路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="浦东大道" X = "2222" Y = "907">
+      <Link To="世纪大道" Line="4号线" Flag="0" Weight="3" />
+      <Link To="杨树浦路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="杨树浦路" X = "2222" Y = "846">
+      <Link To="浦东大道" Line="4号线" Flag="0" Weight="3" />
+      <Link To="大连路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="大连路" X = "2222" Y = "808">
+      <Link To="杨树浦路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="临平路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="提篮桥" Line="12号线" Flag="0" Weight="3" />
+      <Link To="江浦公园" Line="12号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="临平路" X = "2164" Y = "738">
+      <Link To="大连路" Line="4号线" Flag="0" Weight="3" />
+      <Link To="海伦路" Line="4号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="淮海中路" X = "1838" Y = "997">
+      <Link To="新天地" Line="13号线" Flag="0" Weight="3" />
+      <Link To="新闸路" Line="13号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="外高桥保税区南" X = "2621" Y = "390">
+      <Link To="洲海路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="航津路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="临沂新村" X = "2167" Y = "1339">
+      <Link To="上海儿童医学中心" Line="6号线" Flag="0" Weight="3" />
+      <Link To="高科西路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="华夏西路" X = "2033" Y = "1604">
+      <Link To="上南路" Line="6号线" Flag="0" Weight="3" />
+      <Link To="高青路" Line="6号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="美兰湖" X = "1603" Y = "224">
+      <Link To="罗南新村" Line="7号线" Flag="0" Weight="3" />
+    </Node>
+    <Node Name="陆家浜路" X = "1989" Y = "1105">
+      <Link To="老西门" Line="8号线" Flag="0" Weight="3" />
+      <Link To="西藏南路" Line="8号线" Flag="0" Weight="3" />
+      <Link To="马当路" Line="9号线" Flag="0" Weight="3" />
+      <Link To="小南门" Line="9号线" Flag="0" Weight="3" />
+    </Node>
+
+  </Nodes>
+</MetroGraph>
